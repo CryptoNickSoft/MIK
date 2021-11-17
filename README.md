@@ -1,1 +1,1 @@
-# Multi_Image_Kitchen
+# Multi Image Kitchen
