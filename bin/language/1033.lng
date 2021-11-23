@@ -1,0 +1,168 @@
+Please select the file(s) of the firmware image or partition
+File(s)
+Please select the folder of the unpacked image or partition
+File
+Unpack
+Pack
+Recent
+Settings
+Exit
+Edit
+Clear  log window
+Help
+Help
+Topic
+Discussion
+Author's channel
+Donate project
+About
+Batch processing:
+action(s)
+Wait for the actions to be performed...
+A folder with a unpacked section is detected, delete!
+The program does not know how to unpack:
+Try editing this partition image using:
+In the directory:
+no instructions found for building the image!
+There are no active actions.
+You can close this window.
+Additional actions are scheduled
+Please wait...
+Folder with unpacked firmware, delete!
+Unpacking the image of the firmware:
+Firmware image unpack:
+Action on the assembly of firmware:
+completed.
+Action on unpacking the firmware:
+The partition image is being unpacked:
+Action to unpack the partition image:
+The partition image is being pack:
+Action to build a partition image:
+Free space:
+Exitcode
+Window
+On top of all window
+Background
+Window transparency
+Font Window
+Font Color
+Font size
+Unpack
+Pack
+After unpacking the firmware image:
+Unpack the partition:
+Open a folder in File Explorer
+Before packaging the firmware:
+Pack the partition:
+Add an index to the name of the firmware file
+Open an image in
+Specify the path to the file:
+Sound
+Volume
+Signal after performing all actions
+Play audio signal
+Unsupported format
+On the program icon, you can transfer only the image(s) of the firmware
+image(s) partition(s)
+or folder with unpacked firmware, folder with a unpacked update, folder with a unpacked partition.
+Drag & drop the firmware image(s) to this window or to the program icon
+can't be unpacked!
+Renaming
+No active action
+Donate project
+Program for unpacking and packaging Android firmware and partition images
+Attention
+Scheduled actions are being performed!
+Completed successfully
+Execution error
+Please specify the path to the file
+Are you sure you want to close the program window?
+Did you like the project? Do you want it to develop? Provide financial assistance. Transfer any amount to one of these wallets:
+Do not delete intermediate partitions
+Other
+successfully deleted.
+Deleting the partition image:
+Language
+Interface language
+in
+Creating a list of file attributes
+Action to create a file attribute list
+In folder
+no subfolders
+and(or)
+the attribute list cannot be created
+Attempt to unpack another version
+Copy
+Select all
+Save as...
+Please select a save path:
+News
+update file(s)
+The update file is being built:
+The file signature is performed:
+Action to build the update file:
+Signature with a test key
+Compression level:
+Transfer list version:
+Compress
+Decompress
+Clear Recent list
+File not found:
+Folder not found:
+it is possible that it was deleted or moved
+it is possible that it was deleted or moved
+Toolbar
+Horizontally
+Vertical
+Not
+View
+Vertical panel
+Create shortcut to desktop
+Application decompilation is performed:
+Action on decompiling application:
+Application build:
+Action to build an application:
+File alignment is performed:
+Installing framework:
+Build
+Use external
+Select a file:
+Align all uncompressed data
+The file is being unpacked:
+Action to unpack the file:
+There are errors of execution
+Highlight
+Success
+Error
+Unpack the archive in the subfolder
+Unpack the content after extracting from the archive
+Delete the archive after removing the contents
+Create a firmware image hash file
+After assembling the firmware, pack it in the archive
+Delete the image of the firmware, after compression to the archive
+Size Toma
+Collect sections not exceeding the original size
+Add free space
+Do not save backup copies
+Do not reserve the original
+A backup copy of the original is created
+Please install Java from the official site
+and restart the computer
+Unacceptable symbols
+Long path
+symbol
+Path
+Header
+Latin
+not Latin
+Space
+Symbols
+Checking checksum
+Creating checksum
+Creating archive
+Compression level
+Remove firmware image file
+recycle
+Convert
+to
+Auto closing through
